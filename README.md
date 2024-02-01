@@ -9,6 +9,6 @@ Responsive UI: Experience a seamless interface that dynamically adjusts to vario
 Adaptive Text: The UI text is not just responsive but intelligently adaptive for an optimal viewing experience.
 Cross-Platform: With Flutter, this Dashboard ensures consistent functionality across different platforms.
 ![alt text](https://github.com/Djallelbrahmia/UI-kit/blob/main/Screenshot%202024-02-01%20at%201.13.33%20PM.png)
-![alt text](https://github.com/Djallelbrahmia/UI-kit/blob/main/Screenshot%202024-02-01%20at%201.13.33%20PM.png)
+![alt text](https://github.com/Djallelbrahmia/UI-kit/blob/main/Screenshot%202024-02-01%20at%201.14.06%20PM.png)
 ![alt text](https://github.com/Djallelbrahmia/UI-kit/blob/main/Screenshot%202024-02-01%20at%201.13.44%20PM.png)
 
